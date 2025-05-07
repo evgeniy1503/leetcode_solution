@@ -1,1 +1,1 @@
-# leedcode_solution
+# Решение задач с LeetCode
