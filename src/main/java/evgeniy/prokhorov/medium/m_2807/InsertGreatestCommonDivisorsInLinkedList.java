@@ -1,5 +1,7 @@
 package evgeniy.prokhorov.medium.m_2807;
 
+import evgeniy.prokhorov.medium.ListNode;
+
 /**
  * 2807. Insert Greatest Common Divisors in Linked List {@link "https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/description/"}.
  *
